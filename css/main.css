@@ -61,12 +61,10 @@ div > h1 {
     font-size: 60px;
 }
 
-div > p {
+.main-p {
     float: left;
     height: 50px;
     font-size: 14px;
-    margin-top: 10px;
-    margin-right: 70px;
 }
 
 div > a {
@@ -113,8 +111,8 @@ h2 {
 
 .p-left {
     width: 100px;
+    margin-left: 50px;
     font-size: 10px;
-    float: left;
     padding-left: 10px;
 }
 
@@ -126,7 +124,7 @@ h2 {
 
 .logo-2 {
     float: left;
-    width: 40px;
+    width: 35px;
 }
 
 
@@ -141,6 +139,7 @@ h3 {
 
 .p-middle {
     width: 100px;
+    margin-left: 40px;
     font-size: 10px;
     padding-left: 10px;
 }
@@ -167,6 +166,7 @@ h4 {
 
 .p-right {
     width: 100px;
+    margin-left: 40px;
     font-size: 10px;
     padding-left: 10px;
 }
