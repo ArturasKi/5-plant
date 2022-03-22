@@ -48,7 +48,7 @@ nav > a:first-child {
 }
 
 main > div {
-    width: 37%;
+    width: 450px;
     margin-top: 120px;
     float: left;
 }
@@ -58,12 +58,16 @@ div > h1 {
 }
 
 div > p {
+    float: left;
+    height: 50px;
     font-size: 14px;
     margin-top: 10px;
-    padding-bottom: 45px;
 }
 
 div > a {
+    width: 42%;
+    float: left;
+    margin-top: 20px;
     border: 2px solid ;
     border-radius: 20px;
     background-color: rgb(4, 84, 76);
@@ -81,4 +85,81 @@ main > img {
     float: right;
     object-fit: contain;
     object-position: center;
+}
+
+.bottom-left {
+    width: 150px;
+    margin-top: 120px;
+    float: left;
+}
+
+.logo-1 {
+    float: left;
+    width: 50px;
+}
+
+h2 {
+    width: 100px;
+    font-size: 16px;
+    font-weight: normal;
+    float: left;
+    padding-left: 10px;
+}
+
+.p-left {
+    width: 100px;
+    font-size: 10px;
+    float: left;
+    padding-left: 10px;
+}
+
+.bottom-middle {
+    width: 150px;
+    margin-top: 120px;
+    float: left;
+}
+
+.logo-2 {
+    float: left;
+    width: 40px;
+}
+
+
+h3 {
+    width: 100px;
+    font-size: 16px;
+    font-weight: normal;
+    float: left;
+    padding-left: 10px;
+}
+
+.p-middle {
+    width: 100px;
+    font-size: 10px;
+    padding-left: 10px;
+}
+
+.bottom-right {
+    width: 150px;
+    margin-top: 120px;
+    float: left;
+}
+
+.logo-3 {
+    float: left;
+    width: 40px;
+}
+
+h4 {
+    width: 100px;
+    font-size: 16px;
+    font-weight: normal;
+    float: left;
+    padding-left: 10px;
+}
+
+.p-right {
+    width: 100px;
+    font-size: 10px;
+    padding-left: 10px;
 }
